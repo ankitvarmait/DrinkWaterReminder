@@ -26,5 +26,5 @@ A Visual Studio Extension, that reminds you to drink water, that take care of yo
  ### Tool options : Tools > Options > Extension Notification > Notification Settings
    1. Display text for Notification:
       - To change the text 
-         ![image](https://user-images.githubusercontent.com/38877724/115946227-ab2dd000-a474-11eb-8819-c1f996410401.png)
+      ![image](https://user-images.githubusercontent.com/38877724/115946227-ab2dd000-a474-11eb-8819-c1f996410401.png)
  
