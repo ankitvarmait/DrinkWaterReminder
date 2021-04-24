@@ -1,7 +1,8 @@
 # DrinkWaterReminder
 A Visual Studio Extension, that reminds you to drink water, that take care of your health directly on Visual Studio.  If you are too busy while developing applications to remember having to drink enough and regularly, this will try to help you solve that problem.
 
-![image](https://user-images.githubusercontent.com/38877724/115932633-275af000-a442-11eb-9d50-c254a3836dc3.png)
+![image](https://user-images.githubusercontent.com/38877724/115946277-f21bc580-a474-11eb-98d1-66f7d44a7fbf.png)
+
 
 ### Features
  - Send notification to remind about drinking water.
